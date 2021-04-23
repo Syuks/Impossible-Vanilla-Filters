@@ -1,0 +1,15 @@
+{
+  "name": "impossible-vanilla-filters",
+  "version": "1.0.0",
+  "description": "Get a json file with all currently globalled vanilla filters from impossible to complete maps.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syuks",
+  "license": "ISC"
+}
